@@ -28,4 +28,4 @@ The task of image captioning can be divided into two modules logically .​
 ​
 ---------------------------------------------------------------------------------------------------------------
 
- ![RESULTS](https://drive.google.com/file/d/1kwRLsz6ErRdiM8MocrhqCSUgHMphpFwY/view?usp=sharing)
+ ![RESULTS](https://github.com/nikk-16/image-captioning/blob/main/result.png)
