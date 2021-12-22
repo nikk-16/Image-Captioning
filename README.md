@@ -1,4 +1,7 @@
 # image-captioning
+
+[![Open in Jupyter](https://github.com/nikk-16/image-captioning/blob/main/Jupyter_logo.svg)(NOTEBOOK LINK)](https://github.com/nikk-16/image-captioning/blob/main/image_captioning.ipynb)
+
 ##### The goal of image captioning is to convert a given input image into a natural language description.
 The objective of our project is to learn the concepts of a CNN and LSTM model and build a working model of Image caption generator by implementing CNN with LSTM.​
 The task of image captioning can be divided into two modules logically .​
@@ -13,7 +16,7 @@ The task of image captioning can be divided into two modules logically .​
  
 ​at one place which covers all topics in AI and it uses module Tensorflow which is provided by Google.​
 ​
-- The other best thing is its use, that is so helpful to visually impaired people that it can let them to know what they are seeing.​
+> The other best thing is its use, that is so helpful to visually impaired people that it can let them to know what they are seeing.​
 ​
 ---------------------------------------------------------------------------------------------------------------
 
