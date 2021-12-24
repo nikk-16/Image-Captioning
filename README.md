@@ -1,4 +1,7 @@
-# image-captioning
+# Image-Captioning
+
+# Dataset 
+- Flickr_8K dataset
 
 [![Open in Jupyter](https://github.com/nikk-16/image-captioning/blob/main/Jupyter_logo.svg)(NOTEBOOK LINK)](https://github.com/nikk-16/image-captioning/blob/main/image_captioning.ipynb)
 
