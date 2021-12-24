@@ -3,7 +3,11 @@
 # Dataset 
 - Flickr_8K dataset
 
+---------------------------------------------------------------------------------------------------------------
+
 [![Open in Jupyter](https://github.com/nikk-16/image-captioning/blob/main/Jupyter_logo.svg)(NOTEBOOK LINK)](https://github.com/nikk-16/image-captioning/blob/main/image_captioning.ipynb)
+
+---------------------------------------------------------------------------------------------------------------
 
 ##### The goal of image captioning is to convert a given input image into a natural language description.
 The objective of our project is to learn the concepts of a CNN and LSTM model and build a working model of Image caption generator by implementing CNN with LSTM.​
